@@ -8,6 +8,6 @@ Steps to follow: -
 - Install Make
 - Install GCC
 - Setup No-Ip DDNS Service
--	Setup Docker Community Edition
--	Install Bitwarden on Docker
--	Disable Self Registration
+- Setup Docker Community Edition
+- Install Bitwarden on Docker
+- Disable Self Registration
